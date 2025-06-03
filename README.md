@@ -25,8 +25,10 @@ This repository presents a supervised machine learning approach to classify Euro
 - **Feature Importance**: Terms like “poverty” and “immigration” were key predictors, avoiding overfitting to party-specific terms.
 - Lemmatization preserved semantic meaning, enhancing model interpretability.
 
-![Confusion Matrix Two-Group (LightGBM)](outputs/conf_2group_GBM.png)
-![Confusion Matrix Three-Group (LightGBM)](outputs/conf_3group_GBM.png)
+<p align="center">
+  <img src="outputs/conf_2group_GBM.png" alt="Confusion Matrix Two-Group (LightGBM)" width="45%" />
+  <img src="outputs/conf_3group_GBM.png" alt="Confusion Matrix Three-Group (LightGBM)" width="45%" />
+</p>
 
 ## Limitations
 
